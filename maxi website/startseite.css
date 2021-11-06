@@ -1,0 +1,41 @@
+.showall {
+   width: 200px;
+   height: 100px;
+   border-radius: 20px;
+   float: right;
+   font-size: x-large;
+   background-image: url("cloakscloud.png");
+   border: none;
+   outline: 2px black solid;
+   z-index: -1;
+   text-shadow: 1px 1px 1px black;
+   box-shadow: 1px 2px 8px black ;
+}
+
+
+.box1 {
+   border: none;
+   height: 350px;
+   width: 250px;
+   border-radius: 20px;
+   background-image: url("cloakscloud.png");
+  font-size: xx-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:black;
+}
+li {
+   margin-top: 10px;
+   margin-left: 10px;
+}
+h1 {
+   position: relative;
+right: -50%;
+top: 100px;
+font-size: xx-large; 
+}
+h2 {
+   font-size: large;
+   position: relative;
+   top: 120px;
+   right: -200px;
+}
